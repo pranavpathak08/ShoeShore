@@ -1,0 +1,156 @@
+
+/*------GOOGLE FONTS--------------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Roboto:wght@100;300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.shoe{
+    color: red;
+}
+.shore{
+    color: black;
+}
+
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18;
+    transition: all 2s ease-in-out;
+}
+.navbar-nav{
+    margin-right: 10px;
+}
+
+
+a span{
+    color: black;
+    padding-left: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 40;
+}
+
+.navbar-brand{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+a .image{
+    height: 65px;
+    width: 75px;
+}
+.get{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+    color: wheat;
+}
+.sneak{
+    letter-spacing: 5px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    color: beige;
+}
+.para{
+    color: white;
+}
+
+.card{
+    transition: all 0.35s ease;
+}
+.card:hover{
+    background-color: aliceblue;
+    transform: scale(1.03);
+}
+
+.collection{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+}
+
+.shoe-type{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+}
+.desc{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 2.25s ease;
+}
+.inner:hover img{
+    transform: scale(1.25);
+}
+.about-us{
+    background-color: rgb(84, 170, 245);
+}
+.sec-1{
+    background-image: url('../image/1116905.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sec-2{
+    background-image: url('../image/Untitled-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sec-1 a{
+    transition: all 0.5s ease;
+}
+
+.sec-1 a:hover {
+    transform: scale(1.1);
+}
+.sec-2 a{
+    transition: all 0.5s ease;
+}
+
+.sec-2 a:hover {
+    transform: scale(1.1);
+}
+.sec-4{
+    background-image: url('../image/Artboard 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sec-4 video{
+    
+    transition: all 0.2s ease;
+}
+.sec-4 video:hover{
+    transform: scale(1.1);
+    border-radius: 25%;
+}
+.sec-6{
+    background-image: url('../image/aboutbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-para{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.question{
+    font-family: 'Open Sans', sans-serif;
+}
+.answer{
+    font-family: 'Open Sans', sans-serif;
+}
+@media(max-width: 560px){
+    .collection{
+        letter-spacing: 1px;
+    }
+}
