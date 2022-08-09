@@ -150,6 +150,10 @@ a .image{
 
 /*----MAKING RESPONSIVE----*/
 @media(max-width: 769px){
+    .collection{
+        letter-spacing: 2px;
+        font-size: 20;
+    }
     .sec-2 h1{
         font-size: 20;
     }
@@ -166,7 +170,7 @@ a .image{
 @media(max-width: 426px){
     .collection{
         letter-spacing: normal;
-        font-size: 25;
+        font-size: 20;
     }
     a span{
         font-size: 25;
@@ -220,7 +224,8 @@ a .image{
         width: 40px;
     }
     .collection{
-        font-size: 20;
+        letter-spacing: normal;
+        font-size: 18;
     }
     .sneak{
         letter-spacing: 2px;
