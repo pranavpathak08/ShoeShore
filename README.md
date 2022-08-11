@@ -7,5 +7,4 @@ Landing page of a shoes website named TheShoeShore made with html css3 and boots
 <br /><br /><br /><br />
 ![image](https://user-images.githubusercontent.com/99826773/184113523-a4b24cf8-2983-466d-8899-f6bc5f134151.png)
 <br /><br /><br /><br />
-![image](https://user-images.githubusercontent.com/99826773/184113644-27ad384c-fdd6-4087-9cbf-a27ac83ef3a0.png) &nbsp; &nbsp;![image](https://user-images.githubusercontent.com/99826773/184114773-fcae6283-5b9d-4928-b9ae-dae15e5089a4.png) &nbsp; &nbsp; ![image](https://user-images.githubusercontent.com/99826773/184114896-8617eb89-d7e0-43d1-a0d7-c5a1b1018bd5.png)
-
+![image](https://user-images.githubusercontent.com/99826773/184113644-27ad384c-fdd6-4087-9cbf-a27ac83ef3a0.png) &nbsp; &nbsp; &nbsp;![image](https://user-images.githubusercontent.com/99826773/184114773-fcae6283-5b9d-4928-b9ae-dae15e5089a4.png)
