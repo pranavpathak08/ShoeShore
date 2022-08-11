@@ -1,5 +1,5 @@
 # ShoeShore
-Landing page of a shoes website named TheShoeShore made with html css3 and bootstrap 5 framework. The website is made fully responsive to all types of sizes.
+Landing page of a shoes website named TheShoeShore made with <code>html</code> <code>css3</code> and <code>bootstrap 5</code> framework. The website is made fully responsive to all types of sizes.
 # Screenshots
 ![image](https://user-images.githubusercontent.com/99826773/184112935-eb60297d-60a1-49f0-982b-035323846521.png)
 <br /><br /><br /><br />
